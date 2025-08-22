@@ -4,6 +4,7 @@
 - **Ignacio Bentivoglio**
 - **María Florencia Lorenzati**
 - **Griselda Leonor Aguirre**
+- **Sofia Desiree Martinez**
 
 ## Descripción de proyecto
 ### "RoomsyDevs"
@@ -45,3 +46,20 @@ Contacto directo entre turista y anfitrión vía email.
 Visualización responsive desde dispositivos móviles.
 Gestión de roles diferenciados con permisos específicos.
 Visualización de perfil del hospedaje con fotos e información del anfitrión.
+
+
+### Posibles Funcionalidades para el Futuro
+Para el futuro de RoomsyDevs, hemos planificado una serie de mejoras evolutivas. Aunque no forman parte del Producto Mínimo Viable (MVP) inicial, estas funcionalidades establecen una hoja de ruta clara para el crecimiento y la mejora continua de la plataforma.
+Mejoras en la Interacción y Comunicación:
+- Chat Interno entre Turista y Anfitrión: Implementar un sistema de mensajería en tiempo real para facilitar la comunicación directa y segura entre ambas partes, permitiendo resolver dudas y coordinar los detalles de la reserva sin salir de la plataforma.
+Gestión de Reservas y Pagos:
+- Integración de Pasarela de Pagos: Incorporar una solución de pagos segura para que los usuarios puedan realizar y recibir pagos de reservas de manera centralizada y confiable, automatizando el proceso de transacción.
+- Calendario de Disponibilidad Editable: Desarrollar un calendario interactivo para que los anfitriones gestionen visualmente la disponibilidad de sus alojamientos, marcando fechas ocupadas o libres de forma sencilla.
+Herramientas para Anfitriones:
+- Panel de Métricas para Anfitriones: Crear un panel de control que ofrezca a los anfitriones estadísticas relevantes sobre sus publicaciones, como el número de visitas y la tasa de reservas, para ayudarles a optimizar su rendimiento.
+Gestión de Cuotas y Publicaciones:
+- Gestión Automática de Pagos Mensuales: Automatizar el cobro recurrente de la cuota de suscripción a los anfitriones, simplificando la gestión administrativa y asegurando la continuidad del servicio.
+- Cuota de Inscripción para Publicaciones: Establecer una cuota única de inscripción para que los anfitriones puedan publicar sus hospedajes, como un filtro para asegurar la calidad y el compromiso de los anuncios.
+Expansión de la Plataforma:
+- Aplicación Móvil Nativa (Android/iOS): Desarrollar una aplicación móvil nativa para ofrecer una experiencia de usuario superior, con notificaciones push y acceso optimizado a todas las funcionalidades desde dispositivos móviles.
+
