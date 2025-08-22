@@ -3,6 +3,7 @@
 ## Integrantes:
 - **Ignacio Bentivoglio**
 - **María Florencia Lorenzati**
+- **Griselda Leonor Aguirre**
 
 ## Descripción de proyecto
 ### "RoomsyDevs"
@@ -32,3 +33,15 @@ Además, la falta de intermediación justa y transparente deja a los anfitriones
 - Una plataforma web accesible, que prioriza la identidad local y la cercanía.
 - Un sistema de registro simple y directo para anfitriones que desean mostrar su hospedaje sin depender de intermediarios.
 - Herramientas para que los turistas puedan descubrir, contactar y guardar hospedajes basados en sus intereses.
+
+
+### Posibles funcionalidades (mínimo producto viable - MVP):
+Registro e inicio de sesión para turistas y anfitriones. 
+Recuperación de contraseña por correo electrónico.
+Validación de formularios con mensajes de error claros.
+Búsqueda de hospedajes por localidad y tipo.
+Registro de hospedajes por parte de anfitriones.
+Contacto directo entre turista y anfitrión vía email.
+Visualización responsive desde dispositivos móviles.
+Gestión de roles diferenciados con permisos específicos.
+Visualización de perfil del hospedaje con fotos e información del anfitrión.
