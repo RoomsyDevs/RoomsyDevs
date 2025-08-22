@@ -32,3 +32,10 @@ Además, la falta de intermediación justa y transparente deja a los anfitriones
 - Una plataforma web accesible, que prioriza la identidad local y la cercanía.
 - Un sistema de registro simple y directo para anfitriones que desean mostrar su hospedaje sin depender de intermediarios.
 - Herramientas para que los turistas puedan descubrir, contactar y guardar hospedajes basados en sus intereses.
+
+### Posibles usuarios: 
+Se contemplan tres tipos de usuarios principales con roles diferenciados:
+Turistas: buscan hospedajes, guardan favoritos y contactan anfitriones por correo.
+Anfitriones: registran hospedajes, editan su perfil y reciben consultas sin intermediación.
+Administradores: validan registros, asignan roles y gestionan el contenido publicado.
+Otros: Emprendedores turísticos locales, agencias de turismo local, gobiernos municipales o entes de turismo, creadores de contenido, entre otros.
