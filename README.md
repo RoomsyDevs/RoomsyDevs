@@ -3,35 +3,10 @@
 ## Integrantes:
 - **Ignacio Bentivoglio**
 - **María Florencia Lorenzati**
-
-## Descripción de proyecto
-### "RoomsyDevs"
-RoomsyDevs es una plataforma web desarrollada por el Grupo 17, orientada al sector turístico de la provincia de Córdoba. Su objetivo es conectar turistas con hospedajes auténticos, priorizando la identidad local, la cercanía y las experiencias personalizadas.
-
-A diferencia de las plataformas tradicionales, RoomsyDevs no intermedia ni cobra comisiones por reserva. El contacto entre anfitrión y turista se realiza directamente, a través del correo electrónico provisto en la plataforma.
-
-La aplicación está diseñada para ser accesible desde cualquier navegador moderno y dispositivos móviles, cumpliendo con estándares básicos de seguridad, validación y usabilidad. En esta primera etapa, se enfoca en funcionalidades esenciales como:
-- Visualización de hospedajes por localidad.
-- Gestión de perfiles por parte de los anfitriones.
-- Contacto directo entre turistas y anfitriones.
-- Publicación de hospedajes mediante una cuota mensual.
-
-Desde el punto de vista técnico:
-- Funciona exclusivamente en entorno web.
-- Es responsive y accesible desde celulares.
-- Utiliza tecnologías vistas durante el cuatrimestre.
-- Protege los datos personales mediante buenas prácticas de seguridad.
-
-A futuro, se proyecta la posibilidad de evolucionar hacia una aplicación móvil nativa y ampliar funcionalidades como calendario de disponibilidad, métricas y pasarela de pagos.
+- **Agustina Alonzo**
 
 
-### Problema a resolver
-En la provincia de Córdoba, existe una gran cantidad de hospedajes como casas de familia, cabañas rústicas, etc. Sin embargo, muchos de estos alojamientos no cuentan con presencia digital efectiva como lo podría ser un página web propia, con perfiles actualizados en plataformas de reservas, ni herramientas que les permitan mostrar su propuesta de valor de forma auténtica y atractiva.
-Por otro lado, los turistas enfrentan riesgos al buscar hospedaje. Las plataformas más conocidas tienden a priorizar opciones comerciales, estandarizadas y con algoritmos que invisibilizan lo local, en lugar de brindar opciones auténticas, seguras y con información clara.
-Además, la falta de intermediación justa y transparente deja a los anfitriones sin herramientas para gestionar su oferta, y a los turistas sin garantías de que están accediendo a una experiencia segura y significativa. A eso viene RoomsyDevs, venimos a poner fin a estás problemáticas.
-- Una plataforma web accesible, que prioriza la identidad local y la cercanía.
-- Un sistema de registro simple y directo para anfitriones que desean mostrar su hospedaje sin depender de intermediarios.
-- Herramientas para que los turistas puedan descubrir, contactar y guardar hospedajes basados en sus intereses.
+
 
 ### Posibles usuarios: 
 Se contemplan tres tipos de usuarios principales con roles diferenciados:
