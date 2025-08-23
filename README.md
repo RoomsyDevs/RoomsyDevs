@@ -65,14 +65,14 @@ Gestión de Cuotas y Publicaciones:
 Expansión de la Plataforma:
 - Aplicación Móvil Nativa (Android/iOS): Desarrollar una aplicación móvil nativa para ofrecer una experiencia de usuario superior, con notificaciones push y acceso optimizado a todas las funcionalidades desde dispositivos móviles.
 
-### Posibles usuarios: (AGUS)
+### Posibles usuarios:
 Se contemplan tres tipos de usuarios principales con roles diferenciados:
 Turistas: buscan hospedajes, guardan favoritos y contactan anfitriones por correo.
 Anfitriones: registran hospedajes, editan su perfil y reciben consultas sin intermediación.
 Administradores: validan registros, asignan roles y gestionan el contenido publicado.
 Otros: Emprendedores turísticos locales, agencias de turismo local, gobiernos municipales o entes de turismo, creadores de contenido, entre otros.
 
-### Validaciones: (Nadia )
+### Validaciones: 
 
 - Validar que se seleccione el rol: *turista* o *anfitrión*. 
 - Validar que los campos requeridos no estén vacíos. 
