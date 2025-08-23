@@ -6,6 +6,7 @@
 - **Griselda Leonor Aguirre**
 - **Sofia Desiree Martinez**
 - **Agustina Alonzo**
+- **Nadia Molina**
 
 ## Descripción de proyecto
 ### "RoomsyDevs"
@@ -70,3 +71,20 @@ Turistas: buscan hospedajes, guardan favoritos y contactan anfitriones por corre
 Anfitriones: registran hospedajes, editan su perfil y reciben consultas sin intermediación.
 Administradores: validan registros, asignan roles y gestionan el contenido publicado.
 Otros: Emprendedores turísticos locales, agencias de turismo local, gobiernos municipales o entes de turismo, creadores de contenido, entre otros.
+
+### Validaciones: (Nadia )
+
+- Validar que se seleccione el rol: *turista* o *anfitrión*. 
+- Validar que los campos requeridos no estén vacíos. 
+- Validar que el email tenga formato correcto.  
+- Validar que el email no exista ya en la base de datos.  
+- Validar que la contraseña cumpla criterios de seguridad (mínimo 8 caracteres, mayúscula, minúscula, número, símbolo).
+- Validar que la contraseña coincida con el usuario.
+- Validar que el rol sea correcto en caso de accesos restringidos (ej: admin).  
+- Validar que el anfitrión tenga sesión iniciada antes de registrar un hospedaje. 
+- Validar que los datos del hospedaje estén completos: nombre, ubicación, tipo, descripción.  
+- Validar que la localización sea válida (no vacía). 
+- Validar que el hospedaje a eliminar pertenezca al anfitrión logueado. 
+- Validar que las fotos cargadas sean en formatos permitidos (jpg, png, etc.). 
+- Validar criterios de búsqueda (localidad y tipo no vacíos).  
+- Validar que el contacto con el anfitrión sea posible solo si el hospedaje tiene disponibilidad.  
