@@ -11,7 +11,7 @@
 ### "RoomsyDevs"
 RoomsyDevs es una plataforma web desarrollada por el Grupo 17, orientada al sector turístico de la provincia de Córdoba. Su objetivo es conectar turistas con hospedajes auténticos, priorizando la identidad local, la cercanía y las experiencias personalizadas.
 
-A diferencia de las plataformas tradicionales, RoomsyDevs no intermedia ni cobra comisiones por reserva. El contacto entre anfitrión y turista se realiza directamente, a través del correo electrónico provisto en la plataforma.
+El proyecto responde a una necesidad concreta: ofrecer un servicio de visibilización a hospedajes con identidad propia, promoviendo experiencias auténticas y sostenibles. El contacto entre anfitrión y turista se realiza directamente, a través del correo electrónico provisto en la plataforma.
 
 La aplicación está diseñada para ser accesible desde cualquier navegador moderno y dispositivos móviles, cumpliendo con estándares básicos de seguridad, validación y usabilidad. En esta primera etapa, se enfoca en funcionalidades esenciales como:
 - Visualización de hospedajes por localidad.
@@ -64,7 +64,7 @@ Gestión de Cuotas y Publicaciones:
 Expansión de la Plataforma:
 - Aplicación Móvil Nativa (Android/iOS): Desarrollar una aplicación móvil nativa para ofrecer una experiencia de usuario superior, con notificaciones push y acceso optimizado a todas las funcionalidades desde dispositivos móviles.
 
-### Posibles usuarios: (AGUS)
+### Posibles usuarios:
 Se contemplan tres tipos de usuarios principales con roles diferenciados:
 Turistas: buscan hospedajes, guardan favoritos y contactan anfitriones por correo.
 Anfitriones: registran hospedajes, editan su perfil y reciben consultas sin intermediación.
